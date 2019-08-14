@@ -1,5 +1,6 @@
 #include<stdio.h>
-main()
+void main()
 {
 printf("this is fycs");
+  printf("\n new line edited");
 }
